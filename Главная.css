@@ -7,7 +7,11 @@
   margin-bottom: 60px;
   min-height: 607px;
 }
-
+.u-section-3 .u-image-1 {
+  width: 53px;
+  height: 53px;
+  margin: 25px auto 0;
+}
 .u-section-1 .u-carousel-indicators-1 {
   position: absolute;
   width: auto;
