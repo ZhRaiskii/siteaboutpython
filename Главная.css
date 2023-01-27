@@ -340,7 +340,11 @@
 } .u-section-3 {
   background-image: none;
 }
-
+.u-section-3 .u-image-1 {
+  width: 53px;
+  height: 53px;
+  margin: 25px auto 0;
+}
 .u-section-3 .u-sheet-1 {
   min-height: 155px;
 }
