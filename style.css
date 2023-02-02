@@ -1,3 +1,9 @@
+body{
+	font-family: 'Rubik', sans-serif;
+	background-color: rgb(255, 255, 255);
+	width: 1500px;
+	height: 1200px;
+}
 .lenta{
 	position: absolute;
 	top: 0px;
@@ -7,9 +13,8 @@
 	text-shadow: 2px 2px 8px rgb(162, 162, 162);
 	font-size: 50px;
 	width: 400px;
-	position: relative;
+	position: absolute;
 	left: 580px;
-	top: 50px;
 }
 .lent{
 	box-shadow: 4px 4px 10px rgb(169, 169, 169);
@@ -24,6 +29,7 @@
 	border-radius: 10px;
 }
 .date{
+	font-family: 'Rubik', sans-serif;
 	font-size: 22px;
 	width: 110px;
 	color: rgb(133, 179, 245);
@@ -48,7 +54,7 @@
 	position: absolute;
 	top: 205px;
 	left: 315px;
-	height: 352px;
+	height: 300px;
 	width: 400px;
 	background-color: rgb(243, 243, 243);
 	color: rgb(0, 0, 0);
@@ -69,7 +75,7 @@
 #img1989{
 	width: 270px;
 	position: relative;
-	top: 10px;
+	top: -39px;
 	left: 60px;
 }
 /*Ветка номер 2*/
@@ -91,7 +97,7 @@
 	position: absolute;
 	top: 320px;
 	left: 435px;
-	height: 350px;
+	height: 300px;
 	width: 393px;
 	background-color: rgb(243, 243, 243);
 	color: rgb(0, 0, 0);
@@ -110,9 +116,9 @@
 	text-shadow: 1.5px 1.5px 4px rgb(162, 162, 162);
 }
 #img1991{
-	width: 150px;
+	width: 155px;
 	position: relative;
-	top: 18px;
+	top: -30px;
 	left: 120px;
 }
 /*Ветка номер 3*/
@@ -133,9 +139,9 @@
 	display: none;
 	position: absolute;
 	top: 205px;
-	left: 565px;
-	height: 400px;
-	width: 420px;
+	left: 575px;
+	height: 350px;
+	width: 380px;
 	background-color: rgb(243, 243, 243);
 	color: rgb(0, 0, 0);
 	border-style: double;
@@ -149,14 +155,14 @@
 	left: 7px;
 	top: 7px;
 	height: 186px;
-	width: 406px;
+	width: 386px;
 	text-shadow: 1.5px 1.5px 4px rgb(162, 162, 162);
 }
 #img1994{
-	width: 180px;
+	width: 195px;
 	position: relative;
-	top: 60px;
-	left: 112.5px;
+	top: 15px;
+	left: 95px;
 }
 /*Ветка номер 4*/
 #vetka4{
@@ -177,7 +183,7 @@
 	position: absolute;
 	top: 320px;
 	left: 680px;
-	height: 400px;
+	height: 350px;
 	width: 500px;
 	background-color: rgb(243, 243, 243);
 	color: rgb(0, 0, 0);
@@ -196,10 +202,10 @@
 	text-shadow: 1.5px 1.5px 4px rgb(162, 162, 162);
 }
 #img2000{
-	width: 110px;
+	width: 130px;
 	position: relative;
-	top: 98px;
-	left: 194px;
+	top: 30px;
+	left: 175px;
 }
 /*Ветка номер 5*/
 #vetka5{
@@ -220,8 +226,8 @@
 	position: absolute;
 	top: 205px;
 	left: 765px;
-	height: 550px;
-	width: 654px;
+	height: 450px;
+	width: 650px;
 	background-color: rgb(243, 243, 243);
 	color: rgb(0, 0, 0);
 	border-style: double;
@@ -241,12 +247,12 @@
 #img2008{
 	width: 400px;
 	position: relative;
-	top: 0px;
+	top: -40px;
 	left: 120px;
 }
 #litext2008{
 	position: relative;
-	top: -0px;
+	top: -43px;
 	left: 10px;
 	width: 636px;
 	text-shadow: 1.5px 1.5px 4px rgb(162, 162, 162);
@@ -262,7 +268,7 @@
 	font-size: 50px;
 	width: 400px;
 	position: relative;
-	top: 320px;
+	top: 350px;
 	left: 615px;
 	
 }

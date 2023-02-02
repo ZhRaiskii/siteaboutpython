@@ -253,6 +253,38 @@
   margin: 938px auto 25px;
 }
 
+@media (max-width: 1199px) {
+   .u-section-2-3 {
+    min-height: 666px;
+  }
+
+  .u-section-2-3 .u-custom-html-1 {
+    margin-bottom: 0;
+    margin-top: 626px;
+    margin-left: calc(((100% - 940px) / 2) + 309px);
+  }
+}
+
+@media (max-width: 991px) {
+   .u-section-2-3 {
+    min-height: 510px;
+  }
+
+  .u-section-2-3 .u-custom-html-1 {
+    margin-left: calc(((100% - 720px) / 2) + 309px);
+  }
+}
+
+@media (max-width: 767px) {
+   .u-section-2-3 {
+    min-height: 383px;
+  }
+
+  .u-section-2-3 .u-custom-html-1 {
+    margin-left: calc(((100% - 540px) / 2) + 196px);
+  }
+}
+
 @media (max-width: 575px) {
    .u-section-2-3 {
     min-height: 237px;
@@ -261,7 +293,6 @@
   .u-section-2-3 .u-custom-html-1 {
     width: 340px;
     margin-top: 213px;
-    margin-bottom: 0;
     margin-left: calc(((100% - 340px) / 2) + -9px);
   }
 }
@@ -278,14 +309,23 @@
   margin: 938px auto 25px;
 }
 
+@media (max-width: 1199px) {
+   .u-section-2-4 {
+    min-height: 100vh;
+  }
+
+  .u-section-2-4 .u-custom-html-1 {
+    margin-top: 762px;
+    margin-bottom: 0;
+  }
+}
+
 @media (max-width: 575px) {
    .u-section-2-4 {
     min-height: 250px;
   }
 
   .u-section-2-4 .u-custom-html-1 {
-    margin-top: 209px;
-    margin-bottom: 1px;
     width: 440px;
     margin-left: calc(((100% - 340px) / 2) + -38px);
   }
@@ -303,15 +343,405 @@
   margin: 938px auto 25px;
 }
 
+@media (max-width: 1199px) {
+   .u-section-2-5 {
+    min-height: 100vh;
+  }
+
+  .u-section-2-5 .u-custom-html-1 {
+    margin-bottom: 0;
+    margin-top: 762px;
+    margin-left: calc(((100% - 940px) / 2) + 282px);
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-2-5 .u-custom-html-1 {
+    margin-left: calc(((100% - 720px) / 2) + 282px);
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-2-5 .u-custom-html-1 {
+    margin-left: calc(((100% - 540px) / 2) + 196px);
+  }
+}
+
 @media (max-width: 575px) {
    .u-section-2-5 {
     min-height: 238px;
   }
 
   .u-section-2-5 .u-custom-html-1 {
-    margin-top: 201px;
-    margin-bottom: 0;
     width: 440px;
     margin-left: calc(((100% - 340px) / 2) + -41px);
   }
+} .u-section-3 {
+  min-height: 758px;
+}
+
+.u-section-3 .u-text-1 {
+  margin: 60px auto 0 calc(((100% - 1140px) / 2) + 390px);
+}
+
+.u-section-3 .u-gallery-1 {
+  height: 758px;
+  grid-gap: 10px 10px;
+  margin-top: -113px;
+  margin-bottom: 0;
+}
+
+.u-section-3 .u-carousel-item-1 {
+  margin-right: 0;
+}
+
+.u-section-3 .u-over-slide-1 {
+  min-height: 100px;
+  padding: 10px;
+}
+
+.u-section-3 .u-carousel-item-2 {
+  margin-right: 0;
+}
+
+.u-section-3 .u-over-slide-2 {
+  min-height: 100px;
+  padding: 10px;
+}
+
+.u-section-3 .u-carousel-item-3 {
+  margin-right: 0;
+}
+
+.u-section-3 .u-over-slide-3 {
+  min-height: 100px;
+  padding: 10px;
+}
+
+.u-section-3 .u-carousel-thumbnails-1 {
+  padding-top: 10px;
+}
+
+.u-section-3 .u-carousel-thumbnail-1 {
+  width: 100px;
+  height: 100px;
+}
+
+.u-section-3 .u-carousel-thumbnail-2 {
+  width: 100px;
+  height: 100px;
+}
+
+.u-section-3 .u-carousel-thumbnail-3 {
+  width: 100px;
+  height: 100px;
+}
+
+.u-section-3 .u-carousel-control-1 {
+  position: absolute;
+  left: 10px;
+  width: 40px;
+  height: 40px;
+}
+
+.u-section-3 .u-carousel-control-2 {
+  position: absolute;
+  right: 10px;
+  width: 40px;
+  height: 40px;
+}
+
+@media (max-width: 575px) {
+  .u-section-3 .u-text-1 {
+    margin-left: calc(((100% - 1140px) / 2) + 457px);
+  }
+
+  .u-section-3 .u-gallery-1 {
+    height: 428px;
+    margin-bottom: 60px;
+  }
+}.u-section-4 .u-sheet-1 {
+  min-height: 400px;
+}
+
+.u-section-4 .u-custom-html-1 {
+  margin-bottom: 60px;
+}
+
+@media (max-width: 575px) {
+  .u-section-4 .u-sheet-1 {
+    min-height: 4336px;
+  }
+
+  .u-section-4 .u-custom-html-1 {
+    margin-bottom: 0;
+    margin-top: 0;
+  }
+}.lenta{
+	position: absolute;
+	top: 0px;
+}
+.a {
+	color: rgb(106, 162, 240);
+	text-shadow: 2px 2px 8px rgb(162, 162, 162);
+	font-size: 50px;
+	width: 400px;
+	position: absolute;
+	left: 580px;
+}
+.lent{
+	box-shadow: 4px 4px 10px rgb(169, 169, 169);
+	background: rgb(106, 162, 240);
+}
+#line{
+	position: absolute;
+	top: 220px;
+	left: 415px;
+	width: 740px;
+	height: 50px;
+	border-radius: 10px;
+}
+.date{
+	font-family: 'Rubik', sans-serif;
+	font-size: 22px;
+	width: 110px;
+	color: rgb(133, 179, 245);
+	text-shadow: 1.5px 1.5px 4px rgb(169, 169, 169);
+}
+/*Ветка номер 1*/
+#vetka1{
+	position: absolute;
+	top: 201px;
+	left: 500px;
+	width: 20px;
+	height: 20px;
+	border-radius: 10px 10px 0px 0px;
+}
+#date1{
+	position: absolute;
+	top: 153px;
+	left: 465px;
+}
+#text_date1{
+	display: none;
+	position: absolute;
+	top: 205px;
+	left: 315px;
+	height: 300px;
+	width: 400px;
+	background-color: rgb(243, 243, 243);
+	color: rgb(0, 0, 0);
+	border-style: double;
+	border-color: rgb(106, 162, 240);
+}
+#date1:hover + #text_date1{
+	display: block;
+}
+#text1989{
+	position: relative;
+	left: 7px;
+	top: 7px;
+	height: 186px;
+	width: 386px;
+	text-shadow: 1.5px 1.5px 4px rgb(162, 162, 162);
+}
+#img1989{
+	width: 270px;
+	position: relative;
+	top: -39px;
+	left: 60px;
+}
+/*Ветка номер 2*/
+#vetka2{
+	position: absolute;
+	top: 269.9px;
+	left: 620px;
+	width: 20px;
+	height: 20px;
+	border-radius: 0px 0px 10px 10px;
+}
+#date2{
+	position: absolute;
+	top: 269.9px;
+	left: 590px;
+}
+#text_date2{
+	display: none;
+	position: absolute;
+	top: 320px;
+	left: 435px;
+	height: 300px;
+	width: 393px;
+	background-color: rgb(243, 243, 243);
+	color: rgb(0, 0, 0);
+	border-style: double;
+	border-color: rgb(106, 162, 240);
+}
+#date2:hover + #text_date2{
+	display: block;
+}
+#text1991{
+	position: relative;
+	left: 7px;
+	top: 7px;
+	height: 186px;
+	width: 386px;
+	text-shadow: 1.5px 1.5px 4px rgb(162, 162, 162);
+}
+#img1991{
+	width: 155px;
+	position: relative;
+	top: -30px;
+	left: 120px;
+}
+/*Ветка номер 3*/
+#vetka3{
+	position: absolute;
+	top: 201px;
+	left: 750px;
+	width: 20px;
+	height: 20px;
+	border-radius: 10px 10px 0px 0px;
+}
+#date3{
+	position: absolute;
+	top: 152px;
+	left: 715px;
+}
+#text_date3{
+	display: none;
+	position: absolute;
+	top: 205px;
+	left: 575px;
+	height: 350px;
+	width: 380px;
+	background-color: rgb(243, 243, 243);
+	color: rgb(0, 0, 0);
+	border-style: double;
+	border-color: rgb(106, 162, 240);
+}
+#date3:hover + #text_date3{
+	display: block;
+}
+#text1994{
+	position: relative;
+	left: 7px;
+	top: 7px;
+	height: 186px;
+	width: 386px;
+	text-shadow: 1.5px 1.5px 4px rgb(162, 162, 162);
+}
+#img1994{
+	width: 195px;
+	position: relative;
+	top: 15px;
+	left: 95px;
+}
+/*Ветка номер 4*/
+#vetka4{
+	position: absolute;
+	top: 269.9px;
+	left: 898px;
+	width: 20px;
+	height: 20px;
+	border-radius: 0px 0px 10px 10px;
+}
+#date4{
+	position: absolute;
+	top: 269.9px;
+	left: 865px;
+}
+#text_date4{
+	display: none;
+	position: absolute;
+	top: 320px;
+	left: 680px;
+	height: 350px;
+	width: 500px;
+	background-color: rgb(243, 243, 243);
+	color: rgb(0, 0, 0);
+	border-style: double;
+	border-color: rgb(106, 162, 240);
+}
+#date4:hover + #text_date4{
+	display: block;
+}
+#text2000{
+	position: relative;
+	left: 7px;
+	top: 7px;
+	height: 186px;
+	width: 486px;
+	text-shadow: 1.5px 1.5px 4px rgb(162, 162, 162);
+}
+#img2000{
+	width: 130px;
+	position: relative;
+	top: 30px;
+	left: 175px;
+}
+/*Ветка номер 5*/
+#vetka5{
+	position: absolute;
+	top: 201px;
+	left: 1050px;
+	width: 20px;
+	height: 20px;
+	border-radius: 10px 10px 0px 0px;
+}
+#date5{
+	position: absolute;
+	top: 152px;
+	left: 1015px;
+}
+#text_date5{
+	display: none;
+	position: absolute;
+	top: 205px;
+	left: 765px;
+	height: 450px;
+	width: 650px;
+	background-color: rgb(243, 243, 243);
+	color: rgb(0, 0, 0);
+	border-style: double;
+	border-color: rgb(106, 162, 240);
+}
+#date5:hover + #text_date5{
+	display: block;
+}
+#text2008{
+	position: relative;
+	left: 7px;
+	top: 7px;
+	height: 186px;
+	width: 636px;
+	text-shadow: 1.5px 1.5px 4px rgb(162, 162, 162);
+}
+#img2008{
+	width: 400px;
+	position: relative;
+	top: -40px;
+	left: 120px;
+}
+#litext2008{
+	position: relative;
+	top: -43px;
+	left: 10px;
+	width: 636px;
+	text-shadow: 1.5px 1.5px 4px rgb(162, 162, 162);
+}
+#file{
+	position: relative;
+	top: 330px;
+	left: 450px;
+}
+#webalb {
+	color: rgb(106, 162, 240);
+	text-shadow: 2px 2px 8px rgb(162, 162, 162);
+	font-size: 50px;
+	width: 400px;
+	position: relative;
+	top: 350px;
+	left: 615px;
+	
 }
